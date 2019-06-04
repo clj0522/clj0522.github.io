@@ -8,6 +8,12 @@ rss: /atom.xml
 excerpt_link: Read More
 fancybox: true
 
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: true
+
+
 # Sidebar
 sidebar: right
 widgets:
